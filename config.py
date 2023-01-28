@@ -1,4 +1,5 @@
 ## What's up Kangers
+## Don't Kang without Creadits else I will rape your mom
 
 import os
 from os import getenv
@@ -37,15 +38,15 @@ BOT_NAME = getenv("BOT_NAME", "Umk")
 
 API_ID = int(getenv("API_ID", "8186557"))
 API_HASH = getenv("API_HASH", "efd77b34c69c164ce158037ff5a0d117")
-MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://Cloner:Cloner@cluster0.cgc6t.mongodb.net/?retryWrites=true&w=majority")
-OWNER_NAME = getenv("OWNER_NAME", "Njan Thanne")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Aneesuhammad_bot")
-ALIVE_NAME = getenv("ALIVE_NAME", "chathittilla...chathjeevanode und")
+MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://anees123:anees123@cluster0.cgc6t.mongodb.net/?retryWrites=true&w=majority")
+OWNER_NAME = getenv("OWNER_NAME", "Zaid")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Anees")
+ALIVE_NAME = getenv("ALIVE_NAME", "Zaid")
 BOT_USERNAME = getenv("BOT_USERNAME", "svc4musicplayerbot")
-OWNER_ID = getenv("OWNER_ID", "376034382")
-ASSISTANT_NAME = getenv("ASSISTANT_NAME", "BotassistanTVC")
-GROUP_SUPPORT = getenv("GROUP_SUPPORT", "Aneesuhammad_bot")
-UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "Botassistant1")
+OWNER_ID = getenv("OWNER_ID", "1669178360")
+ASSISTANT_NAME = getenv("ASSISTANT_NAME", "BotasssistanTVC")
+GROUP_SUPPORT = getenv("GROUP_SUPPORT", "Aneesmuhammad_bot")
+UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "Aneesmuhammad_bot")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("UPDATES_CHANNEL", "HEROKU_API_KEY")
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1669178360").split()))
