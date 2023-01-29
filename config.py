@@ -36,10 +36,10 @@ else:
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 BOT_NAME = getenv("BOT_NAME", "Umk")
 
-API_ID = int(getenv("API_ID", "8186557"))
-API_HASH = getenv("API_HASH", "efd77b34c69c164ce158037ff5a0d117")
+API_ID = int(getenv("API_ID", "3346400"))
+API_HASH = getenv("API_HASH", "aa623b7797c5982c2d83f9917827f107")
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://anees123:anees123@cluster0.cgc6t.mongodb.net/?retryWrites=true&w=majority")
-OWNER_NAME = getenv("OWNER_NAME", "Zaid")
+OWNER_NAME = getenv("OWNER_NAME", "anees")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Anees")
 ALIVE_NAME = getenv("ALIVE_NAME", "Zaid")
 BOT_USERNAME = getenv("BOT_USERNAME", "svc4musicplayerbot")
